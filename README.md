@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops,Server-side & DSA**
 
-- 👯 I’m looking to collaborate on **Backend Development**
+- 👯 I’m looking to collaborate on **Backend Development & Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhaskarblur](https://github.com/bhaskarblur)
 
