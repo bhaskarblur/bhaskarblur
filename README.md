@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **If there's something i'm best at, that's programming**
 
+[![An image of @bhaskarblur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaskarblur)](https://holopin.io/@bhaskarblur)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhaskar-kaura-300b09272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kaura-300b09272/" height="30" width="40" /></a>
