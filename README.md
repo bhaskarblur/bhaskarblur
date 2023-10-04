@@ -13,8 +13,6 @@
 
 [![An image of @bhaskarblur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaskarblur)](https://holopin.io/@bhaskarblur)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskarblur&show_icons=true&locale=en&layout=compact" alt="bhaskarblur" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskarblur&show_icons=true&locale=en" alt="bhaskarblur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarblur&" alt="bhaskarblur" /></p>
