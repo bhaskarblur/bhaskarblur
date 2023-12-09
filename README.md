@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Native Android Development**
 
-- 🌱 I’m currently learning **Devops,Server-side & DSA**
+- 🌱 I’m currently learning **Devops, Backend & DSA**
 
 - 👯 I’m looking to collaborate on **Backend Development & Open Source**
 
