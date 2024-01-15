@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bhaskar-kaura-300b09272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-kaura-300b09272/" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaskarblur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaskarblur" height="30" width="40" /></a>
-<a href="https://dribbble.com/bhaskarblur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bhaskarblur" height="30" width="40" /></a>
+<a href="https://dribbble.com/bhaskarkaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bhaskarblur" height="30" width="40" /></a>
 <a href="https://medium.com/@bhaskarblur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhaskarblur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bhaskar kaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhaskar kaura" height="30" width="40" /></a>
 </p>
