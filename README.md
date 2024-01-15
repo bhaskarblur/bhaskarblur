@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Kaura</h1>
 <h3 align="center">A Native Android Developer & Backend Developer from India</h3>
 
-- 🔭 I’m currently working in **Native Android Development**
+- 🔭 I’m currently working in **Native Android & Cross Platform App Development**
 
-- 🌱 I’m currently learning **Devops, Backend & DSA**
+- 🌱 I’m currently learning **Devops & DSA**
 
 - 👯 I’m looking to collaborate on **Backend Development & Open Source**
 
