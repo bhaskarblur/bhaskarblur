@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Kaura</h1>
 <h3 align="center">A Full Stack Engineer from India</h3>
 
-- 🔭 I’m currently working in **Golang, Java & Flutter Dart**
+- 🔭 I’m currently working in **Golang, Javascript, DevOps**
 
-- 🌱 I’m currently learning **Devops & DSA**
+- 🌱 I’m currently learning **Big Data Engineering & AI**
 
-- 👯 I’m looking to collaborate on **Backend Development & Open Source**
+- 👯 I’m looking to collaborate on **Backend Development & Open Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhaskarblur](https://github.com/bhaskarblur)
 
