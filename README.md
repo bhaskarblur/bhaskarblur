@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Kaura</h1>
 <h3 align="center">A Product Mindset Engineer & Designer from India</h3>
 
-- 🔭 I’m currently working in **Golang, Javascript, DevOps**
+- 🔭 I’m currently working in **Golang, Typescript**
 
-- 🌱 I’m currently learning **Big Data Engineering & AI**
+- 🌱 I’m currently learning **Big Data & AI**
 
 - 👯 I’m looking to collaborate on **Backend Development & Open Source Contribution**
 
